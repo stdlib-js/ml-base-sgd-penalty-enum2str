@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/assert-is-string": "^0.2.3",
     "@stdlib/ml-base-sgd-penalties": "github:stdlib-js/ml-base-sgd-penalties#main",
-    "@stdlib/object-inverse": "^0.1.1"
+    "@stdlib/object-inverse": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/ml-base-sgd-penalty-str2enum": "github:stdlib-js/ml-base-sgd-penalty-str2enum#main",
